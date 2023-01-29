@@ -718,7 +718,8 @@ margin-right:auto;
 
 ![WhatsApp Image 2023-01-29 at 10 46 44 PM](https://user-images.githubusercontent.com/118787344/215344061-1de8b243-7ef6-46fe-934b-5aa6b1be1fda.jpeg)
 
-![WhatsApp Image 2023-01-29 at 10 46 51 PM](https://user-images.githubusercontent.com/118787344/215344184-d5f8a24c-4539-4533-9aa4-ccdfa2cd28c0.jpeg)
+![Design concepts for the brand  Brainstorm with your team on how you want to develop you brand visually  This is a crucial step in getting your brand noticed!](https://user-images.githubusercontent.com/118787344/215346405-f8917868-3d17-44f1-980f-de60539045f9.png)
+
 
 ![WhatsApp Image 2023-01-29 at 10 47 01 PM](https://user-images.githubusercontent.com/118787344/215344361-9d506782-a9e9-4d12-a794-92c3a67a7e2f.jpeg)
 
