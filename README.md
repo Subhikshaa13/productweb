@@ -505,7 +505,7 @@ products had made you more B-E-A-UTIFUL!</div>
 </div>
 <div class="footer">
 <footer style="color:white">
-Copyright &copy;2023 Developed by Lanford</footer></div>
+Copyright &copy;2023 Developed by subhikshaa.m</footer></div>
 </div>
 </div>
 </body>
@@ -570,7 +570,7 @@ Saveetha Nagar,Thandalam
 <li><b>Landline:</b> 4871683254</li>
 <li><b>Mobile</b>:9786744995</li>
 <li><b>Facebook</b>: fb/cartoonpro</li>
-<li><b>Email Id:</b>vaishu@fancyuniv.com</li>
+<li><b>Email Id:</b>subhi@fancyuniv.com</li>
 </ul>
 <div style="text-align: center;color:violet;font-size:20px;"><b>Use our services
 and Beautify Yourself!</b></div>
