@@ -28,7 +28,7 @@ Publish the website in the given URL.
 ## Code:
 
 home.html
-
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -106,10 +106,10 @@ Copyright &copy;2023 Developed by Langford</footer></div>
 </body>
 </html>
 
-
+```
 products.html
 
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -308,11 +308,11 @@ Copyright &copy;2023 Developed by Lanford</footer></div>
 </div>
 </body>
 </html>
-
+```
 
 people.html
 
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -510,11 +510,11 @@ Copyright &copy;2023 Developed by Lanford</footer></div>
 </div>
 </body>
 </html>
-
+```
 
 contact.html
 
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -582,10 +582,10 @@ Copyright &copy;2023 Developed by Jenifer Lanford</footer></div>
 </div>
 </body>
 </html>
-
+```
 
 styles.css
-
+```css
 
 .home{
 height: 700px;
@@ -712,7 +712,7 @@ margin-left:auto;
 margin-right:auto;
 }
 
-
+```
 ## Output:
 ![Screenshot (47)](https://user-images.githubusercontent.com/118787344/215344055-ab4184fb-c523-45ae-9b3a-c298abbf5e76.png)
 
